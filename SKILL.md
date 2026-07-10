@@ -8,7 +8,8 @@ metadata: { "openclaw": { "emoji": "🎬" } }
 
 > Reusable template skill. The avatars below are example personas — rename them and
 > fill the `[BRAND]` slots with your own product. Runs on any AgentSkills-compatible
-> runtime (OpenClaw, Claude Code, and others).
+> runtime (OpenClaw, Claude Code, and others), and works on OpenClaw, and also through **[PaioClaw.ai](https://paioclaw.ai)**.
+
 
 A production system for generating emotionally-driven, platform-native short-form
 video featuring AI avatars. It exists to solve one bottleneck: **creative supply**.
