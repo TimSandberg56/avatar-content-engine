@@ -1,11 +1,15 @@
----
+
 # Avatar Content Engine
 
 > runtime (OpenClaw, Claude Code, and others), and works on OpenClaw, and also through **[PaioClaw.ai](https://paioclaw.ai)**.
 > fill the `[BRAND]` slots with your own product. Runs on any AgentSkills-compatible
-name: avatar-content-engine
-description: Operate an AI-avatar short-form content engine — script, image, and video production for social-video avatars across TikTok, Reels, Shorts, and Facebook. Use for avatar scripts, hooks, micro-moments, emotional arcs, brand vs niche content modes, avatar portrait generation, 2×2 reference grids, and Seedance / Kling / Wan lip-sync clips. Trigger even when the request only names an avatar, a TikTok/Reel, a portrait, or a content pipeline — do not fall back to generic content advice when this pipeline applies.
-metadata: { "openclaw": { "emoji": "🎬" } }
+
+---
+# UAIGC Avatar Engine- Create Viral Content (avatar-content-engine)
+- Operate an AI-avatar short-form content engine — script, image, and video production for social-video avatars across TikTok, Reels, Shorts, and Facebook. 
+- Use for avatar scripts, hooks, micro-moments, emotional arcs, brand vs niche content modes, avatar portrait generation, 2×2 reference grids, and Seedance / Kling / Wan lip-sync clips. 
+- Trigger even when the request only names an avatar, a TikTok/Reel, a portrait, or a content pipeline — do not fall back to generic content advice when this pipeline applies.
+
 ---
 \
 A production system for generating emotionally-driven, platform-native short-form
